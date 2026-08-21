@@ -1,0 +1,43 @@
+﻿id_veiculo,placa,tipo_veiculo,marca,ano_fabricacao,capacidade_ton,consumo_medio_km_l,id_filial,status_frota
+1,UDA3X38,Truck 6x2,Scania,2015,14,3.23,3,Ativo
+2,IHH6E14,Toco,Volvo,2016,6,2.33,5,Ativo
+3,XDV3X93,Toco,Iveco,2015,6,2.96,5,Ativo
+4,RCS2N99,Toco,Volkswagen,2019,6,2.68,1,Ativo
+5,BAC6G22,Bitrem,Mercedes-Benz,2016,37,3.39,1,Ativo
+6,HQT1A58,Truck 6x2,Volvo,2022,14,2.97,5,Ativo
+7,RGW3U18,Toco,Volvo,2020,6,3.13,5,Ativo
+8,WRN6H45,Truck 6x2,Volkswagen,2018,14,3.09,1,Ativo
+9,OSI4Z99,Bitrem,Iveco,2020,37,3.11,2,Ativo
+10,AYZ2F69,Carreta Simples,Volkswagen,2023,27,2.58,2,Em Manutenção
+11,WNK0I39,Toco,Volvo,2018,6,3.33,3,Ativo
+12,EGY5K37,Truck 6x2,Iveco,2018,14,2.9,5,Em Manutenção
+13,DCM2D41,Rodotrem,Iveco,2017,57,2.99,3,Ativo
+14,LLT6I56,Toco,Scania,2021,6,3.6,5,Ativo
+15,ZBX1O29,Rodotrem,Iveco,2016,57,2.42,1,Ativo
+16,RDM6C86,Toco,Volkswagen,2016,6,2.94,4,Inativo
+17,RJU4T92,Truck 6x2,Mercedes-Benz,2016,14,2.36,5,Ativo
+18,LSG8W32,Rodotrem,DAF,2015,57,3.48,3,Em Manutenção
+19,CBV3H29,Bitrem,Mercedes-Benz,2023,37,3.27,5,Ativo
+20,YJC5H72,Toco,Volvo,2015,6,2.36,5,Ativo
+21,DMI3O82,Bitrem,Volvo,2018,37,2.32,1,Ativo
+22,ULF2L94,Truck 6x2,Volkswagen,2023,14,3.53,2,Ativo
+23,LGV3I79,Toco,Iveco,2024,6,3.17,4,Ativo
+24,WVU8C67,Rodotrem,Volvo,2020,57,2.55,4,Ativo
+25,TUF3R85,Truck 6x2,Scania,2024,14,2.21,5,Ativo
+26,XHF0O52,Truck 6x2,Volvo,2018,14,2.92,1,Ativo
+27,MIU2W83,Rodotrem,DAF,2018,57,2.86,5,Ativo
+28,RHV1K94,Rodotrem,Volkswagen,2018,57,2.7,1,Ativo
+29,YYB6H53,Truck 6x2,Volvo,2016,14,2.55,1,Ativo
+30,BZK2M45,Rodotrem,Volkswagen,2017,57,2.55,4,Em Manutenção
+31,ICG0S93,Rodotrem,DAF,2023,57,3.37,1,Inativo
+32,WKG7U71,Carreta Simples,Scania,2017,27,3.41,4,Em Manutenção
+33,PMU6O43,Carreta Simples,Volkswagen,2021,27,2.6,1,Ativo
+34,EIE3H47,Toco,Scania,2022,6,3.56,2,Ativo
+35,XRR0I16,Toco,DAF,2015,6,2.87,3,Em Manutenção
+36,XSN8S20,Toco,Scania,2017,6,2.3,1,Ativo
+37,MLH9E41,Carreta Simples,DAF,2021,27,3.03,1,Ativo
+38,QPC8Y50,Rodotrem,Mercedes-Benz,2024,57,2.49,5,Ativo
+39,BDE2U95,Carreta Simples,Iveco,2019,27,2.62,4,Ativo
+40,FZV9N82,Truck 6x2,Volvo,2015,14,2.3,4,Ativo
+41,TCM1M41,Bitrem,Mercedes-Benz,2017,37,2.6,3,Ativo
+42,TOQ8I11,Toco,Iveco,2019,6,3.34,5,Ativo

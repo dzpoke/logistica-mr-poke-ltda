@@ -1,0 +1,6 @@
+﻿id_filial,nome_filial,cidade,uf,regiao
+1,Matriz São Paulo,São Paulo,SP,Sudeste
+2,Filial Curitiba,Curitiba,PR,Sul
+3,Filial Belo Horizonte,Belo Horizonte,MG,Sudeste
+4,Filial Salvador,Salvador,BA,Nordeste
+5,Filial Goiânia,Goiânia,GO,Centro-Oeste

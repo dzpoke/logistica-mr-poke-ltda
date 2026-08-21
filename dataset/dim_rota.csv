@@ -1,0 +1,21 @@
+﻿id_rota,origem,destino,distancia_km
+1,São Paulo/SP,Rio de Janeiro/RJ,430
+2,São Paulo/SP,Curitiba/PR,410
+3,São Paulo/SP,Belo Horizonte/MG,590
+4,Curitiba/PR,Porto Alegre/RS,550
+5,Belo Horizonte/MG,Salvador/BA,1370
+6,Salvador/BA,Recife/PE,800
+7,Goiânia/GO,Brasília/DF,210
+8,Goiânia/GO,São Paulo/SP,930
+9,São Paulo/SP,Salvador/BA,1960
+10,São Paulo/SP,Goiânia/GO,930
+11,Curitiba/PR,São Paulo/SP,410
+12,Belo Horizonte/MG,São Paulo/SP,590
+13,Salvador/BA,Belo Horizonte/MG,1370
+14,Recife/PE,Salvador/BA,800
+15,Brasília/DF,Goiânia/GO,210
+16,São Paulo/SP,Ribeirão Preto/SP,315
+17,São Paulo/SP,Campinas/SP,100
+18,Belo Horizonte/MG,Uberlândia/MG,550
+19,Curitiba/PR,Florianópolis/SC,300
+20,Goiânia/GO,Cuiabá/MT,930
